@@ -1,0 +1,4 @@
+{
+  "status": "#('SUCCESS' || 'FAILED')",
+  "applicantID": "#regex APP-[0-9]{8}-[0-9]{3}"
+}

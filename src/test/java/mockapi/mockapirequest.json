@@ -1,0 +1,21 @@
+{
+  "ApplicantBlock": {
+    "applicantID": "APP-20250826-002",
+    "fullName": {
+      "first": "first",
+      "last": "last"
+    },
+    "dob": "1990-04-15",
+    "country": "US",
+    "employment": {
+      "status": "Employed",
+      "employerName": "Acme Corp",
+      "annualIncome": 85000
+    }
+  },
+  "MetaBlock": {
+    "submissionID": "SUB-20250826-XYZ123",
+    "submittedBy": "Teller-102",
+    "submissionTimestamp": "2025-08-26T10:15:00Z"
+  }
+}

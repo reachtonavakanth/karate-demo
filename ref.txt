@@ -1,0 +1,13 @@
+JWT Validity & Authorizations reading dynamically
+Schema validations
+Response validation
+Query Params
+API Chaining
+Tags
+
+To DO
+Database Integration
+Run Parallel
+Jenkins
+
+mvn clean test -Dkarate.options="--tags @mockapi,@reqres" -Dtest=runners.ComponentTestRunner
